@@ -2,7 +2,6 @@ package edu.wctc.jsadi.Test;
 import edu.wctc.jsadi.InvalidTestScore;
 import edu.wctc.jsadi.TestScores;
 import org.junit.*;
-import org.junit.rules.ExpectedException;
 
 public class TestScoresTest extends junit.framework.TestCase {
     public TestScoresTest() {}
